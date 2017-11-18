@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	
 	System.out.println("수진아 합은 이거래~~"+c);
 	System.out.println("ㅋㅋㅋㅋㅋㅋㅋㅋㅋ");
+	System.out.println("희영언니 ㅋㅋㅋㅋ");
 	
 }
 }
