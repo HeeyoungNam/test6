@@ -7,6 +7,7 @@ public static void main(String[] args) {
 	int c = a +b;
 	
 	System.out.println("수진아 합은 이거래~~"+c);
+	System.out.println("ㅋㅋㅋㅋㅋㅋㅋㅋㅋ");
 	
 }
 }
